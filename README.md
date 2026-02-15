@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project cleans a retail orders dataset (`train.csv`) using Python and pandas.
+This project cleans a retail orders dataset (`Raw_DataSet.csv`) using Python and pandas.
 The goal is to prepare the raw data for analysis by fixing formats, removing invalid records, and dropping duplicates using a defined rule.
 
 ---
@@ -94,5 +94,3 @@ The dataset is now:
 * ready for analysis or visualization
 
 ---
-
-If you want, I can also give you a **2–3 line ultra-short README** version for quick submission.
