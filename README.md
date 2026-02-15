@@ -1,8 +1,4 @@
 # ApexPlanet_Task-1
-Here is a **simple, clean README** you can paste directly into your GitHub repo. It avoids heavy wording and keeps everything clear and student-friendly.
-
----
-
 # 📊 Data Cleaning — Retail Orders Dataset
 
 ## 📌 Overview
